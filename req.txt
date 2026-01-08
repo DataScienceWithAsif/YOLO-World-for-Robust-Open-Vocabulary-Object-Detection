@@ -1,0 +1,6 @@
+torch==2.8.0
+torchvision==0.23.0
+mmcv==2.0.0
+mmdet==3.0.0
+mmengine==0.10.3
+transformers==4.36.2
